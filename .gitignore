@@ -1,0 +1,12 @@
+.DS_Store
+.venv
+
+/venv/
+
+/data/**
+!/data/**/
+!/data/**/.gitkeep
+
+/tools/**
+!/tools/**/
+!/tools/**/.gitkeep
