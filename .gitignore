@@ -1,0 +1,8 @@
+.DS_Store
+.venv
+
+venv/
+data/capec/*
+data/intermediate/*
+data/processed/*
+tools/standford-parser/*
