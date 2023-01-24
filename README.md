@@ -1,5 +1,6 @@
 # 概要
 CAPECの攻撃パターンをアタックツリーのパーツに変換するスクリプト．[RATTATA](https://github.com/RATTATAlab/RATTATA)にインポートして使う．
+CATPEC, Common Attack Trees Parts Enumerations and Classifications
 
 
 
